@@ -1,6 +1,4 @@
 # Monetary menu-cost KS model
-
-These are the original instructions. But I won't able to upload a folder. 
 Tested on CPU with Python 3.11.5. Open the notebook from this directory so `menucost` is importable.
 
 ```bash
