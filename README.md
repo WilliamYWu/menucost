@@ -5,7 +5,7 @@ Tested on CPU with Python 3.11.5. Open the notebook from this directory so `menu
 python -m venv .venv
 source .venv/bin/activate
 python -m pip install -r requirements.txt
-python -m ipykernel install --user --name menucost-ks --display-name "Menu-cost KS"
+python -m ipykernel install --user --name menucost --display-name "Menu-cost"
 ```
 
 Select the Menu-cost KS kernel in your notebook editor and run `menucost_walkthrough.ipynb` from top to bottom. Restart an existing kernel before running so the CPU setting takes effect.
